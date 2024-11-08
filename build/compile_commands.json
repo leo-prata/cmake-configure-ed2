@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/leopp/OneDrive/Documentos/ed2/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\hello.dir\\hello.cpp.obj -c C:\\Users\\leopp\\OneDrive\\Documentos\\ed2\\hello.cpp",
+  "file": "C:/Users/leopp/OneDrive/Documentos/ed2/hello.cpp",
+  "output": "CMakeFiles/hello.dir/hello.cpp.obj"
+}
+]
